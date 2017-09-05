@@ -1,5 +1,9 @@
 # MMM-Domaining-Sedo-TopDomains
-Displays a list of current top top domains from Sedo 
+Displays a list of current top domains / recently sold domains and current auctions from Sedo by using the files provided in the Sedo integration area. 
+For example all German files:
+https://sedo.com/txt/topdomains_d.txt
+https://sedo.com/txt/recentlysold_d.txt
+https://sedo.com/txt/auctions_de.txt
 
 ## Using the module
 
